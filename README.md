@@ -10,15 +10,15 @@
 __Input:__
     __Graph Name__ __= {'node'__ __: [False(visited), [__ __'node'(edgeNode)__, __capacity__,__current-flow ]]}__
 
-    
-   _graph = {
+
+   _graph = {_
     'A': [False,['B',10,0],['C',10,0]],
     'B': [False,['D',4,0],['E',8,0]],
     'C': [False,['F',9,0]],
     'D': [False,['F',10,0]],
     'E': [False,['D', 6,0],['F',10,0]],
     'F': [False]
-}`_
+}`
 
 __Output:__
   `Maximum Flow  = 19`
