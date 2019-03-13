@@ -21,8 +21,10 @@ __Input:__
     'F': [False]
     }
     ```
+
+
 __Output:__
-  `Maximum Flow  = 19`
+`Maximum Flow  = 19`
 
 ![q](https://github.com/linxnerd/ford-fulkerson-algorithm/blob/master/Graphs/0.png)
 ![q](https://github.com/linxnerd/ford-fulkerson-algorithm/blob/master/Graphs/1.png)
