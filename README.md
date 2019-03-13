@@ -11,7 +11,7 @@ __Input:__
     __Graph Name__ __= {'node'__ __: [False(visited), [__ __'node'(edgeNode)__, __capacity__,__current-flow] ] }__
 
 
-   ```
+   ``` javascript
    graph = {
     'A': [False,['B',10,0],['C',10,0]],
     'B': [False,['D',4,0],['E',8,0]],
@@ -21,7 +21,6 @@ __Input:__
     'F': [False]
     }
     ```
-
 __Output:__
   `Maximum Flow  = 19`
 
