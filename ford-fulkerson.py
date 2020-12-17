@@ -1,6 +1,5 @@
 from copy import deepcopy
-from pydot import *
-import pydot
+import pydot, os
 
 class FordFulkersonAlgorithm:
     def __init__(self,s,d,g):

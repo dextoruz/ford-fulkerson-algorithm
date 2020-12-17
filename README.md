@@ -1,11 +1,11 @@
 # ford-fulkerson-algorithm
 ### Python implemented Ford Fulkerson Algorithm to find maximum flow with graphical representation.
 
-## Prerequisites ##
+## Dependencies ##
 
 * [graphviz](https://pypi.org/project/graphviz/)
 * [pydot](https://pypi.org/project/pydot/)
-
+* sudo apt install graphviz 
 
 __Input:__
 ```
